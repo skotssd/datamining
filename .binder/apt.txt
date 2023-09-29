@@ -3,5 +3,7 @@ xvfb
 gnuplot
 ghostscript
 nano
+liboctave-dev
+
 
 
