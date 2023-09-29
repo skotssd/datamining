@@ -10,8 +10,8 @@ dependencies:
   # Runtime dependency for Octave ``symbolic`` package.
   - sympy
   # For compiling the Octave ``control`` and ``signal`` packages
-  #- compilers
-  #- make
+  - compilers
+  - make
   # for fltk graphictoolkit option
   #- fltk
   # for qt graphictoolkit option
